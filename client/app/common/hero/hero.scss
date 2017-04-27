@@ -1,0 +1,10 @@
+@import '../common';
+
+.hero {
+  background-color: $darkBgColor;
+  padding: 3rem;
+
+  * {
+    color: $lightTextColor;
+  }
+}
