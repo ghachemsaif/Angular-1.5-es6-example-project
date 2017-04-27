@@ -19,11 +19,13 @@ This repo serves as a minimal starter for those looking to get up-and-running wi
     * [Running the App](#running-the-app)
         * [Gulp Tasks](#gulp-tasks)
         * [Testing](#testing)
-		* [Generating Components](#generating-components)		
+    * [Generating Components](#generating-components)   
 * [Starter Kit Support and Questions](#starter-kit-support-and-questions)
 
 
+
 ## File structure
+```
 client
 ⋅⋅app/
 ⋅⋅⋅⋅app.js * app entry file
