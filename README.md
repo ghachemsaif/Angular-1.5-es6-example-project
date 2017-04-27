@@ -8,19 +8,6 @@ This repo serves as a minimal starter for those looking to get up-and-running wi
 * A full testing system in place
 * [SASS](http://sass-lang.com/) support via node-sass
 
-# Table of Contents
-* [Walkthrough](#walkthrough)
-    * [Build System](#build-system)
-    * [File Structure](#file-structure)
-    * [Testing Setup](#testing-setup)
-* [Getting Started](#getting-started)
-    * [Dependencies](#dependencies)
-    * [Installing](#installing)
-    * [Running the App](#running-the-app)
-        * [Gulp Tasks](#gulp-tasks)
-        * [Testing](#testing)
-    * [Generating Components](#generating-components)   
-* [Starter Kit Support and Questions](#starter-kit-support-and-questions)
 
 
 
