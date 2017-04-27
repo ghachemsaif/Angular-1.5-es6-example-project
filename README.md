@@ -10,7 +10,6 @@ This repo serves as a minimal starter for those looking to get up-and-running wi
 
 
 
-
 ## File structure
 ```
 client
